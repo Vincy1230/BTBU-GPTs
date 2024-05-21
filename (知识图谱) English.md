@@ -1,4 +1,3 @@
-```markdown
 # Knowledge Graph: Beijing Technology and Business University (BTBU)
 
 ## University Overview
@@ -113,4 +112,3 @@
     -   Broaden international vision
     -   Enhance international competitiveness and innovation ability
 -   **Success Rate**: 90% of participants continue their studies at top universities (e.g., Harvard University, Columbia University, University of Sydney, University of Melbourne)
-```
